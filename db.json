@@ -1,0 +1,23 @@
+{
+"products":
+[{"id":1,"name":"Fox, asian red","category":"Teal"},
+{"id":2,"name":"Dove, white-winged","category":"Khaki"},
+{"id":3,"name":"Dusky gull","category":"Teal"},
+{"id":4,"name":"Yellow-billed hornbill","category":"Fuscia"},
+{"id":5,"name":"Chipmunk, least","category":"Orange"},
+{"id":6,"name":"Wallaby, bennett's","category":"Orange"},
+{"id":7,"name":"Wild water buffalo","category":"Blue"},
+{"id":8,"name":"Yellow-rumped siskin","category":"Orange"},
+{"id":9,"name":"Blesbok","category":"Aquamarine"},
+{"id":10,"name":"Phalarope, red-necked","category":"Red"},
+{"id":11,"name":"Glossy starling (unidentified)","category":"Khaki"},
+{"id":12,"name":"American racer","category":"Aquamarine"},
+{"id":13,"name":"Darwin ground finch (unidentified)","category":"Aquamarine"},
+{"id":14,"name":"Brown brocket","category":"Violet"},
+{"id":15,"name":"Armadillo, nine-banded","category":"Maroon"},
+{"id":16,"name":"Galapagos sea lion","category":"Mauv"},
+{"id":17,"name":"Gull, southern black-backed","category":"Aquamarine"},
+{"id":18,"name":"Opossum, american virginia","category":"Green"},
+{"id":19,"name":"Eagle, pallas's fish","category":"Red"},
+{"id":20,"name":"Galapagos mockingbird","category":"Maroon"}]
+}
